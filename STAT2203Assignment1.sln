@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudSeedingData.Desktop", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowBallProbabilityTest", "ThrowBallProbabilityTest\ThrowBallProbabilityTest.csproj", "{B4B151E1-22F6-4F5D-85B1-C2C9F051D55C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinuousRandomVariable", "ContinuousRandomVariable\ContinuousRandomVariable.csproj", "{2045BECA-FBDA-436A-ABBB-11D94D26EFDE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinuousRandomVariable.Desktop", "ContinuousRandomVariable.Desktop\ContinuousRandomVariable.Desktop.csproj", "{55CD2E96-9409-474E-8327-762497F46CAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B4B151E1-22F6-4F5D-85B1-C2C9F051D55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B151E1-22F6-4F5D-85B1-C2C9F051D55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B151E1-22F6-4F5D-85B1-C2C9F051D55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2045BECA-FBDA-436A-ABBB-11D94D26EFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2045BECA-FBDA-436A-ABBB-11D94D26EFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2045BECA-FBDA-436A-ABBB-11D94D26EFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2045BECA-FBDA-436A-ABBB-11D94D26EFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CD2E96-9409-474E-8327-762497F46CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CD2E96-9409-474E-8327-762497F46CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CD2E96-9409-474E-8327-762497F46CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CD2E96-9409-474E-8327-762497F46CAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
