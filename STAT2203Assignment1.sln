@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudSeedingData", "CloudSe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudSeedingData.Desktop", "CloudSeedingData.Desktop\CloudSeedingData.Desktop.csproj", "{86091FD4-F8A9-4C41-A7FD-B083608DBFCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowBallProbabilityTest", "ThrowBallProbabilityTest\ThrowBallProbabilityTest.csproj", "{B4B151E1-22F6-4F5D-85B1-C2C9F051D55C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowBallProbabilityTest", "ThrowBallProbabilityTest\ThrowBallProbabilityTest.csproj", "{B4B151E1-22F6-4F5D-85B1-C2C9F051D55C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
